@@ -53,7 +53,9 @@ Open developer tools to view the two console logs.
 
 ## JQuery and lodash
 
+````
 cd jquerylodash
+````
 
 ### Update package.json
 
